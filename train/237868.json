@@ -1,0 +1,1 @@
+{"version": "1.0.0", "flags": {}, "imageHeight": 720, "imageWidth": 1280, "shapes": [{"label": "Green", "points": [[693.0, 1.0], [693.0, 47.0], [733.0, 1.0], [733.0, 47.0]], "group_id": 0, "shape_type": "polygon"}, {"label": "Green", "points": [[1149.0, 175.0], [1149.0, 237.0], [1166.0, 175.0], [1166.0, 237.0]], "group_id": 1, "shape_type": "polygon"}], "imagePath": "237868.png"}
